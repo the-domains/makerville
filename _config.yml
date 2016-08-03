@@ -1,0 +1,14 @@
+layout_spectrum: 0.8123517534695566
+typography_spectrum: 0.809978928649798
+color:
+  brandStrength: 0.9292377491947263
+  lightness: 0.23497033305466175
+  saturation: 0.7664253185503185
+  rhythmicContrast: 0.5894180284813046
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Makerville
