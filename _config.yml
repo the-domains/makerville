@@ -1,4 +1,3 @@
-layout_spectrum: 0.8123517534695566
 typography_spectrum: 0.809978928649798
 color:
   brandStrength: 0.9292377491947263
@@ -11,5 +10,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.8123517534695566
 name: Makerville
+title: Making stuff is cool! The end...
 description: Even if it costs too much
